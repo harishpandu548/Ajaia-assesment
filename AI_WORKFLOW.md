@@ -2,7 +2,7 @@
 
 ## Tools Used
 
-- **Claude (claude-sonnet-4-6)** — Primary coding assistant throughout the project
+- **Chatgpt and claude
 
 ## Where AI Materially Sped Up Work
 

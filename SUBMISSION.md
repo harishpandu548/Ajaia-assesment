@@ -16,9 +16,9 @@
 
 | Name | Email | Password |
 |------|-------|----------|
-| Alice Johnson | alice@example.com | password123 |
-| Bob Smith | bob@example.com | password123 |
-| Charlie Davis | charlie@example.com | password123 |
+| harish | harish@example.com | password123 |
+| ajaia | ajaia@example.com | password123 |
+| demo | demo@example.com | password123 |
 
 ## Seeded Demo Data
 
